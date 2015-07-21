@@ -1,0 +1,25 @@
+{
+  "olpVersion" : "0.1",
+
+  "paths" : [
+    {
+      "name" : "all-modules",
+      "title" : "All Modules by Azat Mardan",
+      "description" : "See in one place all the modules published by Azat Mardan.",
+      "coverImage" : "https://raw.githubusercontent.com/outlearn-content/assets/master/space.jpg",
+      "privacy" : "public",
+      "pages" : [
+        {"module" : "using-mocha-with-node.js-for-test-driven-development"},
+        {"module" : "mocha-test"}
+      ]
+    }
+  ],
+
+  "modules" : [
+    {"olm" : "./modules/using-mocha-with-node.js-for-test-driven-development.md"},
+    {"olm" : "./modules/mocha-test.md"}
+  ],
+
+  "assets" : [
+  ]
+}
