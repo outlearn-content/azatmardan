@@ -9,14 +9,14 @@
       "coverImage" : "https://raw.githubusercontent.com/outlearn-content/assets/master/space.jpg",
       "privacy" : "public",
       "pages" : [
-        {"module" : "using-mocha-with-node.js-for-test-driven-development"},
+        {"module" : "using-mocha-with-node.js"},
         {"module" : "mocha-test"}
       ]
     }
   ],
 
   "modules" : [
-    {"olm" : "./modules/using-mocha-with-node.js-for-test-driven-development.md"},
+    {"olm" : "./modules/using-mocha-with-node.js.md"},
     {"olm" : "./modules/mocha-test.md"}
   ],
 

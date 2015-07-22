@@ -1,6 +1,6 @@
-<!--
+﻿<!--
 {
-"name" : "using-mocha-with-node.js-for-test-driven-development",
+"name" : "using-mocha-with-node.js",
 "version" : "0.1",
 "title" : "How To Use Mocha With Node.js For Test-Driven Development to Avoid Pain and Ship Products Faster",
 "description" : "TBD.",
