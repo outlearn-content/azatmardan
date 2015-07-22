@@ -9,14 +9,14 @@
       "coverImage" : "https://raw.githubusercontent.com/outlearn-content/assets/master/space.jpg",
       "privacy" : "public",
       "pages" : [
-        {"module" : "using-mocha-with-node.js"},
+        {"module" : "using-mocha-with-nodejs"},
         {"module" : "mocha-test"}
       ]
     }
   ],
 
   "modules" : [
-    {"olm" : "./modules/using-mocha-with-node.js.md"},
+    {"olm" : "./modules/using-mocha-with-nodejs.md"},
     {"olm" : "./modules/mocha-test.md"}
   ],
 
