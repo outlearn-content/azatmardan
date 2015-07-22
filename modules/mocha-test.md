@@ -1,6 +1,6 @@
-<!--
+﻿<!--
 {
-"name" : "writting-first-test-with-mocha",
+"name" : "mocha-test",
 "version" : "0.1",
 "title" : "How to Write Your First Test With Mocha",
 "description" : "TBD.",
